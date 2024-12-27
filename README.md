@@ -1,7 +1,7 @@
 # node-graphql-kit
 
 [![Hits-of-Code](https://hitsofcode.com/github/cuongw/node-graphql-kit)](https://hitsofcode.com/view/github/cuongw/node-graphql-kit)
-[![GitHub](https://img.shields.io/github/license/cuongw/node-graphql-kit.svg)](https://github.com/cuongw/node-graphql-kit/blob/master/LICENSE)
+[![GitHub](https://img.shields.io/github/license/cuongw/node-graphql-kit.svg)](https://github.com/cuongndc9/node-graphql-kit/blob/master/LICENSE.md)
 
 > 🧘🚀 A Node.js kit with GraphQL, Sequelize, PostgreSQL and awesome tools.
 
